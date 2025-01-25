@@ -18,11 +18,12 @@ const data: ISiteMetadataResult = {
     {
       name: 'Nikola',
       url: 'https://hi-nikola.cn',
-    },
-    {
-      name: 'About',
-      url: 'https://hi-nikola.cn',
-    },
+    }
+    // ,
+    // {
+    //   name: 'About',
+    //   url: 'https://hi-nikola.cn',
+    // },
   ],
 };
 
